@@ -1,1 +1,2 @@
-![About Me](https://user-images.githubusercontent.com/58983373/147650125-ded56689-3e2f-4461-bb3c-93e2986744cc.gif)
+
+![About Me](https://user-images.githubusercontent.com/58983373/147650501-ad5795ed-9e2b-496b-aaae-f118bcaf84f1.gif)
