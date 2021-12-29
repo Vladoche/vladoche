@@ -1,4 +1,4 @@
-![About Me](https://user-images.githubusercontent.com/58983373/147650501-ad5795ed-9e2b-496b-aaae-f118bcaf84f1.gif)
+![About Me](https://user-images.githubusercontent.com/58983373/147656200-ccf54a84-7ce3-4d40-9c9f-1dfd7b481eb9.gif)
 
 ```javascript
 let aboutMe = {
