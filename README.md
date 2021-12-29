@@ -1,25 +1,19 @@
-
 ![About Me](https://user-images.githubusercontent.com/58983373/147650501-ad5795ed-9e2b-496b-aaae-f118bcaf84f1.gif)
 
 ```javascript
-const aboutMe = {
+let aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Java],
    technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      testAutomation: {
+         js: ["Cypress", "Postman"],
+         java: ["Selenium/Protractor", "JUnit"]
       },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["mySQL"],
+      reporting: ["mochawesome"],
+      misc: ["PHP"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Test automation engineer for Hager Group (Pessac - France)"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
